@@ -1,6 +1,6 @@
-Alumno: Aldo Raul Martinez Choque
+## Alumno: Aldo Raul Martinez Choque
 
-*Estilos de progmacion:*
+## *Estilos de progmacion:*
 Fueron aplicados en api/index.js el cual tiene de utilidad de mostrar la pantalla principal del programa y Data/Repositorio/UserRepository.js
 
 07-code-golf: Simplificamos la función getCandidatos eliminando comentarios y utilizando la sintaxis de funciones de flecha de forma más concisa.
@@ -97,7 +97,7 @@ class UserRepository {
 export default UserRepository;
 ```
 
-//Codificacion legible 
+## Codificacion legible 
 
 1 Conditional Rendering:
 Se utiliza para mostrar o ocultar elementos del DOM en función de ciertas condiciones. En el código de index.js esta práctica se aplica en la línea donde se verifica si 'candidatos.length > 0', y en función de esta condición, se renderiza una   tabla con los candidatos o se muestra un mensaje de "Vacio" cuando no hay candidatos.
@@ -165,7 +165,7 @@ Se aplica mediante el uso de la función 'map' para iterar sobre el array 'candi
 ```
 
 
-Principios SOLID que fueron aplicados para pages/index.js:
+## Principios SOLID que fueron aplicados para pages/index.js:
 
 - Principio de responsabilidad única (SRP): divida el componente en componentes más pequeños y enfocados para una mejor organización del código.
 ```bash
