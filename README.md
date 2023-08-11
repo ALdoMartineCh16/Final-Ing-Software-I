@@ -161,7 +161,7 @@ Se aplica mediante el uso de la función 'map' para iterar sobre el array 'candi
     }
   })}
 </tbody>
-´´´
+```
 
 
 Principios SOLID que fueron aplicados para pages/index.js:
