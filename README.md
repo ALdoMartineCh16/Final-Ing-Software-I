@@ -1,6 +1,7 @@
 Alumno: Aldo Raul Martinez Choque
 
-Estilos de progmacion que fueron aplicados en api/index.js y Data/Repositorio/UserRepository.js
+*Estilos de progmacion:*
+Fueron aplicados en api/index.js el cual tiene de utilidad de mostrar la pantalla principal del programa y Data/Repositorio/UserRepository.js
 
 07-code-golf: Simplificamos la función getCandidatos eliminando comentarios y utilizando la sintaxis de funciones de flecha de forma más concisa.
 ```bash
